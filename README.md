@@ -128,6 +128,3 @@ WHERE eh.start_date > ja.submission_date;
 This project is intended for **academic and educational use only**.  
 All data is **mock data** generated for demonstration purposes.
 
----
-
-> 📌 For visual schema, see `diagrams/Conceptual ERD.jpg` and `Logical Design EER.png`
