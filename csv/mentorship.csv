@@ -1,0 +1,51 @@
+mentorship_id,mentor_alumni_id,mentee_alumni_id,mentorship_type,availability_status
+1,23,46,General,Available
+2,32,44,General,Unavailable
+3,8,36,Career Advice,Available
+4,12,45,Internship,Unavailable
+5,32,32,Career Advice,Unavailable
+6,17,49,Internship,Unavailable
+7,7,18,Internship,Unavailable
+8,36,5,Career Advice,Unavailable
+9,30,30,Career Advice,Available
+10,27,26,Internship,Available
+11,11,16,Internship,Available
+12,2,16,Career Advice,Available
+13,1,30,Career Advice,Available
+14,24,49,Internship,Available
+15,33,20,Internship,Available
+16,26,23,Internship,Available
+17,41,11,Career Advice,Unavailable
+18,22,12,Internship,Unavailable
+19,41,47,Career Advice,Unavailable
+20,31,1,Career Advice,Unavailable
+21,12,38,Internship,Available
+22,25,11,Internship,Available
+23,13,7,General,Available
+24,19,6,General,Unavailable
+25,28,17,General,Unavailable
+26,32,1,Career Advice,Available
+27,24,10,Internship,Unavailable
+28,37,3,General,Available
+29,47,31,General,Unavailable
+30,24,39,Internship,Available
+31,7,17,Internship,Available
+32,1,21,General,Available
+33,3,33,General,Unavailable
+34,30,26,Internship,Available
+35,16,48,Internship,Unavailable
+36,44,41,Career Advice,Available
+37,27,25,Career Advice,Unavailable
+38,20,38,General,Unavailable
+39,24,25,Internship,Available
+40,35,4,Internship,Unavailable
+41,18,44,Internship,Available
+42,33,42,Internship,Available
+43,4,42,Career Advice,Available
+44,17,20,General,Unavailable
+45,43,8,General,Available
+46,29,28,Internship,Unavailable
+47,46,5,General,Available
+48,11,10,Career Advice,Available
+49,34,15,Career Advice,Unavailable
+50,42,30,Internship,Unavailable

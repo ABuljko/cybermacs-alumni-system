@@ -1,0 +1,51 @@
+employment_id,alumni_id,employer_id,job_title,start_date,end_date,job_posting_id
+1,47,6,Associate Professor,2020-06-22,,50
+2,4,1,Sales Representative,2019-01-04,,27
+3,31,30,Financial Analyst,2020-01-04,,48
+4,14,31,Administrative Assistant II,2016-03-08,,48
+5,20,23,Marketing Manager,2016-11-15,,32
+6,30,26,Environmental Specialist,2016-01-09,2023-02-28,2
+7,21,49,Professor,2020-11-11,,40
+8,37,14,Computer Systems Analyst III,2018-05-09,,
+9,7,48,Senior Developer,2022-01-29,,10
+10,32,50,Software Consultant,2021-04-24,2022-11-14,24
+11,29,10,Analog Circuit Design manager,2017-09-17,2022-09-17,42
+12,39,47,Analog Circuit Design manager,2017-05-22,,2
+13,18,28,Nuclear Power Engineer,2022-01-24,2020-04-06,19
+14,1,15,Information Systems Manager,2018-04-27,2022-04-15,34
+15,14,24,Editor,2021-07-01,,19
+16,27,18,Financial Analyst,2022-06-03,2022-06-29,21
+17,32,12,Senior Sales Associate,2018-03-23,2020-03-15,48
+18,17,27,Financial Analyst,2018-03-24,2022-09-03,32
+19,23,19,Civil Engineer,2020-09-19,,39
+20,13,45,Assistant Manager,2019-03-21,,
+21,32,25,Financial Advisor,2022-03-24,,
+22,16,19,Financial Advisor,2016-08-16,2022-05-19,36
+23,43,10,Programmer I,2018-03-11,2022-04-14,47
+24,44,23,Pharmacist,2018-02-17,,50
+25,8,8,Community Outreach Specialist,2020-09-25,,5
+26,35,13,GIS Technical Architect,2021-01-22,,24
+27,11,39,Teacher,2019-04-17,2021-12-05,18
+28,23,25,Editor,2018-03-08,,44
+29,1,21,Accounting Assistant IV,2017-06-07,,15
+30,30,16,Analog Circuit Design manager,2019-12-06,,36
+31,31,10,Nurse,2017-02-09,2021-03-06,37
+32,28,28,VP Sales,2022-11-11,,33
+33,13,36,Nuclear Power Engineer,2021-10-25,2021-10-27,
+34,26,42,Senior Financial Analyst,2018-04-01,2020-03-27,46
+35,14,7,Environmental Tech,2015-06-04,2020-06-17,
+36,14,7,Senior Developer,2020-04-03,2021-09-27,
+37,43,9,Nurse,2018-04-14,2021-03-15,
+38,18,22,Research Nurse,2016-01-20,2024-03-16,30
+39,7,40,Assistant Manager,2016-04-09,,
+40,49,31,Clinical Specialist,2020-06-04,2023-05-26,12
+41,2,48,Programmer Analyst I,2020-12-05,2024-10-07,45
+42,4,47,Quality Control Specialist,2017-07-11,2024-04-03,26
+43,41,28,Account Representative I,2021-11-09,2024-07-13,41
+44,6,27,Environmental Specialist,2018-01-14,2021-09-09,
+45,11,23,Civil Engineer,2018-02-01,,31
+46,43,20,Senior Financial Analyst,2017-03-24,,
+47,47,13,Geologist II,2016-09-09,,38
+48,47,25,VP Product Management,2018-04-13,,3
+49,36,46,Speech Pathologist,2020-09-25,2023-02-24,18
+50,31,8,Web Developer II,2015-03-04,2022-11-10,43

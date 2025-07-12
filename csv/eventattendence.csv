@@ -1,0 +1,51 @@
+attendance_id,alumni_id,event_id,feedback,rating
+1,9,11,Constructive criticism,2
+2,43,35,Average performance,5
+3,2,30,Outstanding effort,3
+4,50,42,Average performance,1
+5,21,39,Outstanding effort,2
+6,22,34,Room for growth,2
+7,28,9,Positive feedback,2
+8,43,49,Impressive results,4
+9,33,33,Outstanding effort,3
+10,31,6,Great job!,5
+11,8,26,Average performance,3
+12,20,8,Room for growth,2
+13,14,15,Constructive criticism,2
+14,4,12,Great job!,1
+15,16,23,Constructive criticism,5
+16,48,27,Satisfactory outcome,4
+17,1,41,Average performance,4
+18,17,16,Constructive criticism,3
+19,10,1,Outstanding effort,3
+20,25,3,Room for growth,2
+21,6,10,Satisfactory outcome,5
+22,44,44,Satisfactory outcome,2
+23,45,26,Constructive criticism,3
+24,22,35,Impressive results,4
+25,10,20,Room for growth,1
+26,17,4,Excellent work,5
+27,37,23,Outstanding effort,4
+28,21,10,Impressive results,5
+29,23,50,Impressive results,3
+30,39,43,Impressive results,4
+31,28,4,Room for growth,3
+32,5,5,Constructive criticism,4
+33,20,23,Needs improvement,5
+34,27,16,Constructive criticism,3
+35,36,22,Average performance,4
+36,39,9,Impressive results,5
+37,36,39,Excellent work,4
+38,1,4,Room for growth,5
+39,48,39,Great job!,3
+40,16,7,Constructive criticism,4
+41,4,48,Constructive criticism,4
+42,7,37,Great job!,5
+43,16,27,Outstanding effort,1
+44,22,43,Impressive results,2
+45,48,30,Impressive results,2
+46,42,11,Great job!,4
+47,14,5,Average performance,2
+48,28,40,Average performance,2
+49,26,22,Outstanding effort,2
+50,38,32,Average performance,2

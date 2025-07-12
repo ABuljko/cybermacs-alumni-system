@@ -1,0 +1,51 @@
+job_posting_id,job_title,job_description,job_type,application_deadline,location,employer_id
+1,Professor,HR Coordinator,Contract,2024-03-27,51816 Barnett Hill,1
+2,Research Assistant IV,Software Engineer,Part-time,2022-03-03,,19
+3,Senior Financial Analyst,Sales Manager,Part-time,2025-02-22,74181 Stang Crossing,7
+4,Geologist II,Graphic Designer,Internship,2020-12-09,1 Vermont Crossing,24
+5,Quality Engineer,Graphic Designer,Contract,2023-04-15,,44
+6,Human Resources Assistant IV,Graphic Designer,Internship,2022-01-31,,2
+7,Electrical Engineer,HR Coordinator,Internship,2024-02-14,,28
+8,Software Consultant,HR Coordinator,Internship,2023-03-14,1 Melvin Pass,31
+9,Administrative Officer,Software Engineer,Part-time,2022-06-25,3679 Stuart Place,8
+10,Recruiter,Graphic Designer,Part-time,2025-08-15,92956 Jana Crossing,4
+11,Graphic Designer,Marketing Specialist,Internship,2023-04-03,7814 Sugar Plaza,19
+12,Marketing Assistant,HR Coordinator,Part-time,2021-12-02,,24
+13,Design Engineer,Software Engineer,Contract,2021-07-14,096 Cottonwood Crossing,22
+14,Geologist III,Software Engineer,Full-time,2022-11-23,,34
+15,Senior Quality Engineer,Sales Manager,Contract,2025-10-31,,15
+16,Chief Design Engineer,Sales Manager,Internship,2020-12-27,8383 Northland Parkway,26
+17,Executive Secretary,HR Coordinator,Contract,2022-09-27,,46
+18,Research Associate,Graphic Designer,Full-time,2023-06-14,37060 Anhalt Terrace,44
+19,Desktop Support Technician,Software Engineer,Part-time,2025-07-16,5085 Caliangt Point,6
+20,Senior Financial Analyst,Graphic Designer,Contract,2021-12-26,24 Charing Cross Court,46
+21,Statistician I,Sales Manager,Full-time,2022-03-02,,15
+22,Teacher,Graphic Designer,Contract,2024-04-08,3 Kim Pass,7
+23,Registered Nurse,Sales Manager,Full-time,2021-02-06,31 Twin Pines Hill,37
+24,Physical Therapy Assistant,Software Engineer,Internship,2023-08-17,,26
+25,Financial Analyst,Software Engineer,Internship,2022-07-28,25 Oak Plaza,32
+26,Software Engineer IV,HR Coordinator,Contract,2022-01-10,,1
+27,Media Manager IV,HR Coordinator,Internship,2022-01-04,09 Luster Avenue,12
+28,Account Representative III,Software Engineer,Part-time,2020-03-16,877 Center Street,16
+29,Web Designer I,Software Engineer,Internship,2021-02-12,92503 Hooker Court,38
+30,Executive Secretary,Graphic Designer,Internship,2025-07-15,433 Rutledge Circle,4
+31,Computer Systems Analyst I,Software Engineer,Contract,2024-05-13,5 Melvin Avenue,46
+32,Web Designer IV,Marketing Specialist,Contract,2025-02-25,1 Eastlawn Point,5
+33,Quality Engineer,Software Engineer,Full-time,2020-11-21,8 Dakota Parkway,41
+34,Sales Associate,Marketing Specialist,Contract,2023-11-24,5 Sutherland Center,5
+35,Sales Associate,Marketing Specialist,Internship,2023-02-25,,17
+36,Senior Quality Engineer,HR Coordinator,Internship,2021-12-17,,45
+37,Human Resources Manager,Marketing Specialist,Part-time,2025-08-15,2 Westport Pass,40
+38,Pharmacist,Sales Manager,Part-time,2021-09-20,9204 Barnett Circle,27
+39,Chemical Engineer,Software Engineer,Internship,2024-04-07,67 Old Shore Point,8
+40,Software Engineer I,Marketing Specialist,Internship,2021-07-24,856 Delaware Terrace,8
+41,Health Coach II,Software Engineer,Contract,2023-02-04,84 Harbort Drive,30
+42,VP Quality Control,Marketing Specialist,Full-time,2025-12-29,,40
+43,Quality Engineer,Software Engineer,Internship,2023-10-27,60851 Prairieview Terrace,23
+44,Mechanical Systems Engineer,Marketing Specialist,Part-time,2023-06-03,97143 Melrose Drive,16
+45,Staff Scientist,Marketing Specialist,Full-time,2022-09-26,50 Porter Center,36
+46,Senior Sales Associate,Sales Manager,Part-time,2025-06-18,92 Brown Street,44
+47,Desktop Support Technician,Sales Manager,Contract,2021-04-06,,35
+48,Programmer I,Sales Manager,Full-time,2020-10-23,,30
+49,VP Sales,Software Engineer,Internship,2021-10-16,8875 Eggendart Road,4
+50,Computer Systems Analyst IV,Graphic Designer,Contract,2021-10-13,,1

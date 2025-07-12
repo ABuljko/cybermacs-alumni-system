@@ -1,0 +1,51 @@
+event_id,admin_id,event_name,event_description,event_date,event_location
+1,1,Annual Charity Gala,Charity fundraiser gala,2024-07-09,13795 Atwood Street
+2,5,Food Truck Festival,Product launch event,2025-10-24,2008 Harbort Plaza
+3,5,Annual Charity Gala,Birthday party celebration,2020-01-12,89 Judy Junction
+4,2,Food Truck Festival,Networking mixer,2020-03-03,4872 Merry Avenue
+5,1,Summer Music Festival,Birthday party celebration,2023-07-13,0801 Almo Drive
+6,1,Tech Conference,Networking mixer,2021-06-23,
+7,2,Summer Music Festival,Networking mixer,2021-11-26,47219 Oriole Road
+8,1,Annual Charity Gala,Birthday party celebration,2022-03-04,73385 Rieder Alley
+9,1,Annual Charity Gala,Networking mixer,2022-01-25,2877 Elmside Junction
+10,10,Tech Conference,Birthday party celebration,2023-09-15,1 Randy Trail
+11,5,Summer Music Festival,Charity fundraiser gala,2023-06-15,1003 Annamark Way
+12,1,Tech Conference,Birthday party celebration,2022-09-25,9 Londonderry Road
+13,10,Annual Charity Gala,Product launch event,2020-06-04,50576 Southridge Plaza
+14,1,Art Exhibition,Product launch event,2022-05-24,5 Kenwood Street
+15,2,Summer Music Festival,Product launch event,2020-07-20,8 Kinsman Avenue
+16,5,Tech Conference,Charity fundraiser gala,2023-08-19,24452 Novick Alley
+17,1,Food Truck Festival,Charity fundraiser gala,2020-11-04,3 Monument Alley
+18,10,Annual Charity Gala,Birthday party celebration,2020-06-05,510 Arapahoe Center
+19,10,Art Exhibition,Birthday party celebration,2020-07-08,6 Lakewood Gardens Point
+20,5,Summer Music Festival,Birthday party celebration,2024-08-21,53775 Ridgeway Plaza
+21,2,Tech Conference,Birthday party celebration,2025-12-17,
+22,1,Food Truck Festival,Product launch event,2025-09-26,
+23,2,Art Exhibition,Charity fundraiser gala,2025-11-10,
+24,10,Tech Conference,Birthday party celebration,2023-10-29,8 Becker Trail
+25,1,Tech Conference,Birthday party celebration,2020-11-03,
+26,10,Food Truck Festival,Birthday party celebration,2020-04-03,
+27,5,Tech Conference,Product launch event,2023-05-13,
+28,2,Summer Music Festival,Product launch event,2022-05-05,5 Lien Way
+29,2,Tech Conference,Birthday party celebration,2022-07-05,
+30,1,Annual Charity Gala,Company team building event,2020-09-09,1 Roxbury Crossing
+31,10,Art Exhibition,Networking mixer,2021-11-17,83 Hoepker Point
+32,10,Summer Music Festival,Charity fundraiser gala,2020-02-22,
+33,1,Annual Charity Gala,Birthday party celebration,2020-04-06,
+34,5,Food Truck Festival,Product launch event,2021-03-24,
+35,1,Annual Charity Gala,Product launch event,2022-05-28,1 Waubesa Drive
+36,2,Annual Charity Gala,Birthday party celebration,2022-10-18,9021 Hoffman Street
+37,1,Summer Music Festival,Networking mixer,2023-07-28,857 Green Road
+38,1,Food Truck Festival,Product launch event,2022-04-30,86301 Coleman Center
+39,2,Summer Music Festival,Birthday party celebration,2021-11-16,48545 Trailsway Road
+40,2,Summer Music Festival,Networking mixer,2025-04-21,
+41,10,Tech Conference,Birthday party celebration,2022-12-13,
+42,2,Annual Charity Gala,Product launch event,2020-07-05,
+43,1,Summer Music Festival,Company team building event,2022-06-10,
+44,1,Food Truck Festival,Company team building event,2024-08-10,79 Milwaukee Road
+45,10,Tech Conference,Charity fundraiser gala,2020-10-31,
+46,5,Food Truck Festival,Company team building event,2021-12-12,6014 Northport Alley
+47,1,Art Exhibition,Company team building event,2023-10-13,
+48,5,Art Exhibition,Product launch event,2022-12-03,9 Pond Point
+49,5,Food Truck Festival,Product launch event,2023-03-14,0104 Chive Lane
+50,2,Food Truck Festival,Charity fundraiser gala,2024-05-06,3 Westend Pass
